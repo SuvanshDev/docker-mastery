@@ -20,6 +20,8 @@ CREATE DATABASE dockermastery;
 
 The DB URL will become `jdbc:mysql://localhost:3306/dockermastery`
 
+sample code change
+
 ## Build Steps
 
 This project uses JAVA 21 and Maven. Make sure you have that installed in the system.
