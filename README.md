@@ -20,7 +20,7 @@ CREATE DATABASE dockermastery;
 
 The DB URL will become `jdbc:mysql://localhost:3306/dockermastery`
 
-sample code change
+sample code change 2
 
 ## Build Steps
 
